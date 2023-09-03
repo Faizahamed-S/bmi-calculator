@@ -36,7 +36,7 @@ bash : cd bmi-calculator
 bash : python bmi_calculator.py
 
 
-##Usage
+## Usage
 
 Using the BMI Calculator is straightforward:
 
@@ -50,7 +50,7 @@ Please enter your height (cm): 175
 
 Your BMI is 22.86.
 
-##Contributing
+## Contributing
 
 We appreciate contributions to enhance the BMI Calculator! To contribute:
 
